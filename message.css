@@ -1,0 +1,49 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    border-style: ridge;
+    background-color: #B3E2A7;
+
+}
+
+.page {
+    page-break-after: always;
+    padding: 20px;
+}
+
+.header {
+    background-color: #e0b3ff;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
+
+.content p {
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.box {
+    width: 300px;
+    height: 200px;
+    background-color: #e0b3ff;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.aletter {
+    margin: 20px;
+    line-height: 1.6;
+}
+
+.tomy {
+    font-size: 18px;
+    font-weight: bold;
+}
